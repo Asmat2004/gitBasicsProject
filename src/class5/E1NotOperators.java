@@ -1,4 +1,4 @@
-package Class5;
+package class5;
 
 public class E1NotOperators {
     public static void main(String[] args) {
