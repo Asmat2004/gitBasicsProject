@@ -1,0 +1,9 @@
+Logican Operators:
+        Logical operators help combine multipel conditiond on the same line in staemnts. there are three types of ligical operators NOt(!) OR(||)
+        AND (&&).
+
+NOT(!)
+    true=>false
+    false=true
+Why should we use NOT operators:
+    1) It can help is
